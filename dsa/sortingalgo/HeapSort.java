@@ -1,3 +1,5 @@
+package sortingalgo;
+
 import java.util.*;
 public class HeapSort {
 

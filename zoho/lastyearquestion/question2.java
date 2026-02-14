@@ -1,4 +1,4 @@
-package zoho;
+package zoho.lastyearquestion;
 
 public class question2 {
     public static void main(String acas[]){

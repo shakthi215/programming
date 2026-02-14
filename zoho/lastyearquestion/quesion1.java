@@ -1,4 +1,4 @@
-package zoho;
+package zoho.lastyearquestion;
 
 import java.util.Scanner;
 

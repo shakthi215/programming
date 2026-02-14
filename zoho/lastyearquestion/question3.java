@@ -1,4 +1,4 @@
-package zoho;
+package zoho.lastyearquestion;
 
 public class question3 {
     static int getindex(char ch){
